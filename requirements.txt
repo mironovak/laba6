@@ -1,0 +1,10 @@
+Django>=4.2
+psycopg2-binary
+# Django Rest Framework - мощный и гибкий инструмент для создания веб-API.
+djangorestframework==3.15.2
+# djangorestframework-simplejwt - библиотека для реализации JWT-аутентификации.
+# JWT (JSON Web Token) — это открытый стандарт для создания токенов доступа, основанный на формате JSON
+djangorestframework-simplejwt==5.3.1
+# drf-yasg - библиотека для генерации документации API с помощью Swagger.
+drf-yasg==1.21.8
+django-cors-headers==4.4.0
